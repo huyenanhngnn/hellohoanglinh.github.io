@@ -30,22 +30,22 @@ function displayPhotos() {
   question.innerHTML = "<span style='font-size: 0.80 em; display: block; margin-top: 25px; margin-bottom: 0px'>Thank you for coming into my life~</span>";
 
   const photos = [
-    "img/firstmanzi.jpeg",
-    "img/gelato.jpeg",
-    "img/kiss.jpeg",
-    "img/ams.jpeg",
-    "img/haagen.jpeg",
-    "img/montaukfilm.jpeg",
-    "img/raawmirror.jpeg",
-    "img/burger.jpeg",
-    "img/cfphotobooth.jpg",
-    "img/IMG_7439.jpg",
-    "img/mubaohiem.jpeg",
-    "img/croissant.jpeg",
-    "img/pretty.jpeg",
-    "img/pretty2.jpeg",
-    'img/mcdonalds.jpeg',
-    "img/happy.jpeg",
+    "img/firstmanzi.JPEG",
+    "img/gelato.JPEG",
+    "img/kiss.JPEG",
+    "img/ams.JPEG",
+    "img/haagen.JPEG",
+    "img/montaukfilm.JPEG",
+    "img/raawmirror.JPEG",
+    "img/burger.JPEG",
+    "img/cfphotobooth.JPG",
+    "img/IMG_7439.JPG",
+    "img/mubaohiem.JPEG",
+    "img/croissant.JPEG",
+    "img/pretty.JPEG",
+    "img/pretty2.JPEG",
+    'img/mcdonalds.JPEG',
+    "img/happy.JPEG",
   ];
 
   let currentPhotoIndex = 0;
